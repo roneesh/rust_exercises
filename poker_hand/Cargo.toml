@@ -1,0 +1,7 @@
+[package]
+name = "poker_hand"
+version = "0.1.0"
+authors = ["Roneesh <roneesh@gmail.com>"]
+
+[dependencies]
+itertools = "*"

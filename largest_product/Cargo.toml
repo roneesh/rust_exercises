@@ -1,0 +1,6 @@
+[package]
+name = "largest_product"
+version = "0.1.0"
+authors = ["Roneesh <roneesh@gmail.com>"]
+
+[dependencies]
